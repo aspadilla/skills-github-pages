@@ -1,4 +1,3 @@
 ---
 title: book
 ---
-layout: page
